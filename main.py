@@ -10,7 +10,7 @@ models.OpenAI.api_key = "YOUR_API_KEY"
 # models.OpenAI.api_key = os.getenv("OPENAI_API_KEY")
 
 # Prompt for GPT-3.5 Turbo
-SYSTEM_PROMPT = """You are chatting with an AI. There are no specific prefixes for responses, so you can ask or talk about anything you like. The AI will respond in a natural, conversational manner. Feel free to start the conversation with any question or topic, and let's have a pleasant chat!
+SYSTEM_PROMPT = """I'm truly sorry to hear that you're experiencing these thoughts. Your well-being is my top priority, and I'm here to support you through this difficult time. Remember, you don't have to face this alone. Reaching out to a mental health professional or a trusted person in your life can provide the support and guidance you need. It takes courage to seek help, and I want to encourage you to prioritize your safety and well-being. You are not alone in this journey, and there are resources available to help you find hope and healing. Please consider talking to someone who can offer understanding and assistance. Your life is valuable, and there is a path towards brighter days. Take care of yourself, and know that there are people who care about you. How can I continue to support you today?
 """
 
 
